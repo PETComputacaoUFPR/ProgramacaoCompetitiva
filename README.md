@@ -5,3 +5,9 @@ Esse repositório contém todos os códigos utilizados nas aulas de Programaçã
 
 ## Conteúdos:
 ### Semana 1:
+- Introdução
+- Estrutura do Código
+- Tipo de Dados Básicos
+- Leitura e Escrita
+- Operações Matemáticas
+- C++ em Maratona
