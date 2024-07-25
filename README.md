@@ -15,4 +15,4 @@ Esse repositório contém todos os códigos utilizados nas aulas de Programaçã
 ### Semana 2:
 - Condicionais
 - Loops
-- Plataforma de judge
+- Plataformas de judge
