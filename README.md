@@ -11,3 +11,8 @@ Esse repositório contém todos os códigos utilizados nas aulas de Programaçã
 - Leitura e Escrita
 - Operações Matemáticas
 - C++ em Maratona
+
+### Semana 2:
+- Condicionais
+- Loops
+- Plataforma de judge
