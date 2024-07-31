@@ -16,3 +16,9 @@ Esse repositório contém todos os códigos utilizados nas aulas de Programaçã
 - Condicionais
 - Loops
 - Plataformas de judge
+
+### Semana 3:
+- Char e Bool como números
+- Funções
+- Vetores
+- Strings
